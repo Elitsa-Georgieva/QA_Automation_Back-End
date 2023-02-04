@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<coverage line-rate="0.23070000000000002" branch-rate="0.2" version="1.9" timestamp="1675513516" lines-covered="21" lines-valid="91" branches-covered="4" branches-valid="20">
+<coverage line-rate="0.29469999999999996" branch-rate="0.3" version="1.9" timestamp="1675517001" lines-covered="28" lines-valid="95" branches-covered="6" branches-valid="20">
   <sources>
     <source>C:\Users\Elitsa\</source>
   </sources>
   <packages>
-    <package name="Collection" line-rate="0.1882" branch-rate="0.2" complexity="28">
+    <package name="Collection" line-rate="0.2235" branch-rate="0.3" complexity="28">
       <classes>
         <class name="Collection.Program" filename="source\repos\QA_Automation_Back-End\NUnit-Collection-Sample\Collection\Program.cs" line-rate="0" branch-rate="1" complexity="1">
           <methods>
@@ -28,7 +28,7 @@
             <line number="15" hits="0" branch="False" />
           </lines>
         </class>
-        <class name="Collections.Collection`1" filename="source\repos\QA_Automation_Back-End\NUnit-Collection-Sample\Collection\Collection.cs" line-rate="0.2025" branch-rate="0.2" complexity="27">
+        <class name="Collections.Collection`1" filename="source\repos\QA_Automation_Back-End\NUnit-Collection-Sample\Collection\Collection.cs" line-rate="0.24050000000000002" branch-rate="0.3" complexity="27">
           <methods>
             <method name="get_Capacity" signature="()" line-rate="0" branch-rate="1" complexity="1">
               <lines>
@@ -37,7 +37,7 @@
             </method>
             <method name="get_Count" signature="()" line-rate="1" branch-rate="1" complexity="1">
               <lines>
-                <line number="11" hits="2" branch="False" />
+                <line number="11" hits="14" branch="False" />
               </lines>
             </method>
             <method name="Add" signature="(T)" line-rate="0" branch-rate="1" complexity="1">
@@ -84,8 +84,8 @@
             </method>
             <method name="get_Item" signature="(System.Int32)" line-rate="1" branch-rate="1" complexity="1">
               <lines>
-                <line number="50" hits="1" branch="False" />
-                <line number="51" hits="1" branch="False" />
+                <line number="50" hits="7" branch="False" />
+                <line number="51" hits="7" branch="False" />
                 <line number="52" hits="1" branch="False" />
                 <line number="53" hits="1" branch="False" />
               </lines>
@@ -114,18 +114,18 @@
                 <line number="69" hits="0" branch="False" />
               </lines>
             </method>
-            <method name="CheckRange" signature="(System.Int32,System.String,System.Int32,System.Int32)" line-rate="0.5" branch-rate="0.5" complexity="4">
+            <method name="CheckRange" signature="(System.Int32,System.String,System.Int32,System.Int32)" line-rate="1" branch-rate="1" complexity="4">
               <lines>
-                <line number="72" hits="1" branch="False" />
-                <line number="73" hits="1" branch="True" condition-coverage="50% (2/4)">
+                <line number="72" hits="7" branch="False" />
+                <line number="73" hits="7" branch="True" condition-coverage="100% (4/4)">
                   <conditions>
-                    <condition number="3" type="jump" coverage="50%" />
-                    <condition number="15" type="jump" coverage="50%" />
+                    <condition number="3" type="jump" coverage="100%" />
+                    <condition number="15" type="jump" coverage="100%" />
                   </conditions>
                 </line>
-                <line number="74" hits="0" branch="False" />
-                <line number="75" hits="0" branch="False" />
-                <line number="76" hits="0" branch="False" />
+                <line number="74" hits="6" branch="False" />
+                <line number="75" hits="6" branch="False" />
+                <line number="76" hits="6" branch="False" />
                 <line number="78" hits="1" branch="False" />
               </lines>
             </method>
@@ -188,24 +188,24 @@
             </method>
             <method name=".ctor" signature="(T[])" line-rate="1" branch-rate="1" complexity="2">
               <lines>
-                <line number="13" hits="1" branch="False" />
-                <line number="14" hits="1" branch="False" />
-                <line number="15" hits="1" branch="False" />
-                <line number="16" hits="1" branch="False" />
-                <line number="17" hits="8" branch="True" condition-coverage="100% (2/2)">
+                <line number="13" hits="7" branch="False" />
+                <line number="14" hits="7" branch="False" />
+                <line number="15" hits="7" branch="False" />
+                <line number="16" hits="7" branch="False" />
+                <line number="17" hits="42" branch="True" condition-coverage="100% (2/2)">
                   <conditions>
                     <condition number="68" type="jump" coverage="100%" />
                   </conditions>
                 </line>
-                <line number="18" hits="3" branch="False" />
-                <line number="19" hits="1" branch="False" />
-                <line number="20" hits="1" branch="False" />
+                <line number="18" hits="14" branch="False" />
+                <line number="19" hits="7" branch="False" />
+                <line number="20" hits="7" branch="False" />
               </lines>
             </method>
           </methods>
           <lines>
             <line number="10" hits="0" branch="False" />
-            <line number="11" hits="2" branch="False" />
+            <line number="11" hits="14" branch="False" />
             <line number="23" hits="0" branch="False" />
             <line number="24" hits="0" branch="False" />
             <line number="25" hits="0" branch="False" />
@@ -236,8 +236,8 @@
             <line number="43" hits="0" branch="False" />
             <line number="44" hits="0" branch="False" />
             <line number="45" hits="0" branch="False" />
-            <line number="50" hits="1" branch="False" />
-            <line number="51" hits="1" branch="False" />
+            <line number="50" hits="7" branch="False" />
+            <line number="51" hits="7" branch="False" />
             <line number="52" hits="1" branch="False" />
             <line number="53" hits="1" branch="False" />
             <line number="55" hits="0" branch="False" />
@@ -256,16 +256,16 @@
             <line number="67" hits="0" branch="False" />
             <line number="68" hits="0" branch="False" />
             <line number="69" hits="0" branch="False" />
-            <line number="72" hits="1" branch="False" />
-            <line number="73" hits="1" branch="True" condition-coverage="50% (2/4)">
+            <line number="72" hits="7" branch="False" />
+            <line number="73" hits="7" branch="True" condition-coverage="100% (4/4)">
               <conditions>
-                <condition number="3" type="jump" coverage="50%" />
-                <condition number="15" type="jump" coverage="50%" />
+                <condition number="3" type="jump" coverage="100%" />
+                <condition number="15" type="jump" coverage="100%" />
               </conditions>
             </line>
-            <line number="74" hits="0" branch="False" />
-            <line number="75" hits="0" branch="False" />
-            <line number="76" hits="0" branch="False" />
+            <line number="74" hits="6" branch="False" />
+            <line number="75" hits="6" branch="False" />
+            <line number="76" hits="6" branch="False" />
             <line number="78" hits="1" branch="False" />
             <line number="81" hits="0" branch="False" />
             <line number="82" hits="0" branch="False" />
@@ -308,23 +308,23 @@
             <line number="113" hits="0" branch="False" />
             <line number="114" hits="0" branch="False" />
             <line number="115" hits="0" branch="False" />
-            <line number="13" hits="1" branch="False" />
-            <line number="14" hits="1" branch="False" />
-            <line number="15" hits="1" branch="False" />
-            <line number="16" hits="1" branch="False" />
-            <line number="17" hits="8" branch="True" condition-coverage="100% (2/2)">
+            <line number="13" hits="7" branch="False" />
+            <line number="14" hits="7" branch="False" />
+            <line number="15" hits="7" branch="False" />
+            <line number="16" hits="7" branch="False" />
+            <line number="17" hits="42" branch="True" condition-coverage="100% (2/2)">
               <conditions>
                 <condition number="68" type="jump" coverage="100%" />
               </conditions>
             </line>
-            <line number="18" hits="3" branch="False" />
-            <line number="19" hits="1" branch="False" />
-            <line number="20" hits="1" branch="False" />
+            <line number="18" hits="14" branch="False" />
+            <line number="19" hits="7" branch="False" />
+            <line number="20" hits="7" branch="False" />
           </lines>
         </class>
       </classes>
     </package>
-    <package name="Collection.UnitTests" line-rate="0.8332999999999999" branch-rate="1" complexity="2">
+    <package name="Collection.UnitTests" line-rate="0.9" branch-rate="1" complexity="3">
       <classes>
         <class name="AutoGeneratedProgram" filename=".nuget\packages\microsoft.net.test.sdk\17.3.2\build\netcoreapp2.1\Microsoft.NET.Test.Sdk.Program.cs" line-rate="0" branch-rate="1" complexity="1">
           <methods>
@@ -338,7 +338,7 @@
             <line number="4" hits="0" branch="False" />
           </lines>
         </class>
-        <class name="Collection.UnitTests.CollectionTests" filename="source\repos\QA_Automation_Back-End\NUnit-Collection-Sample\Collection.UnitTests\CollectionTests.cs" line-rate="1" branch-rate="1" complexity="1">
+        <class name="Collection.UnitTests.CollectionTests" filename="source\repos\QA_Automation_Back-End\NUnit-Collection-Sample\Collection.UnitTests\CollectionTests.cs" line-rate="1" branch-rate="1" complexity="2">
           <methods>
             <method name="Test_Collection_GetByValidIndex" signature="(System.String,System.Int32,System.String)" line-rate="1" branch-rate="1" complexity="1">
               <lines>
@@ -349,6 +349,14 @@
                 <line number="17" hits="1" branch="False" />
               </lines>
             </method>
+            <method name="Test_Collection_GetByInvalidIndex" signature="(System.String,System.Int32)" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="26" hits="6" branch="False" />
+                <line number="27" hits="6" branch="False" />
+                <line number="29" hits="12" branch="False" />
+                <line number="30" hits="6" branch="False" />
+              </lines>
+            </method>
           </methods>
           <lines>
             <line number="11" hits="1" branch="False" />
@@ -356,6 +364,10 @@
             <line number="14" hits="1" branch="False" />
             <line number="16" hits="1" branch="False" />
             <line number="17" hits="1" branch="False" />
+            <line number="26" hits="6" branch="False" />
+            <line number="27" hits="6" branch="False" />
+            <line number="29" hits="12" branch="False" />
+            <line number="30" hits="6" branch="False" />
           </lines>
         </class>
       </classes>
