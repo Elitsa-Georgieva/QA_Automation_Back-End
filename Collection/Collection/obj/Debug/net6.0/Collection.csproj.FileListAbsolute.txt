@@ -1,0 +1,15 @@
+C:\Users\Elitsa\source\repos\QA_Automation_Back-End\NUnit-Collection-Sample\Collection\bin\Debug\net6.0\Collection.exe
+C:\Users\Elitsa\source\repos\QA_Automation_Back-End\NUnit-Collection-Sample\Collection\bin\Debug\net6.0\Collection.deps.json
+C:\Users\Elitsa\source\repos\QA_Automation_Back-End\NUnit-Collection-Sample\Collection\bin\Debug\net6.0\Collection.runtimeconfig.json
+C:\Users\Elitsa\source\repos\QA_Automation_Back-End\NUnit-Collection-Sample\Collection\bin\Debug\net6.0\Collection.dll
+C:\Users\Elitsa\source\repos\QA_Automation_Back-End\NUnit-Collection-Sample\Collection\bin\Debug\net6.0\Collection.pdb
+C:\Users\Elitsa\source\repos\QA_Automation_Back-End\NUnit-Collection-Sample\Collection\obj\Debug\net6.0\Collection.csproj.AssemblyReference.cache
+C:\Users\Elitsa\source\repos\QA_Automation_Back-End\NUnit-Collection-Sample\Collection\obj\Debug\net6.0\Collection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elitsa\source\repos\QA_Automation_Back-End\NUnit-Collection-Sample\Collection\obj\Debug\net6.0\Collection.AssemblyInfoInputs.cache
+C:\Users\Elitsa\source\repos\QA_Automation_Back-End\NUnit-Collection-Sample\Collection\obj\Debug\net6.0\Collection.AssemblyInfo.cs
+C:\Users\Elitsa\source\repos\QA_Automation_Back-End\NUnit-Collection-Sample\Collection\obj\Debug\net6.0\Collection.csproj.CoreCompileInputs.cache
+C:\Users\Elitsa\source\repos\QA_Automation_Back-End\NUnit-Collection-Sample\Collection\obj\Debug\net6.0\Collection.dll
+C:\Users\Elitsa\source\repos\QA_Automation_Back-End\NUnit-Collection-Sample\Collection\obj\Debug\net6.0\refint\Collection.dll
+C:\Users\Elitsa\source\repos\QA_Automation_Back-End\NUnit-Collection-Sample\Collection\obj\Debug\net6.0\Collection.pdb
+C:\Users\Elitsa\source\repos\QA_Automation_Back-End\NUnit-Collection-Sample\Collection\obj\Debug\net6.0\Collection.genruntimeconfig.cache
+C:\Users\Elitsa\source\repos\QA_Automation_Back-End\NUnit-Collection-Sample\Collection\obj\Debug\net6.0\ref\Collection.dll
